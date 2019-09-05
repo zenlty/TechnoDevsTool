@@ -1,0 +1,74 @@
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe.config
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.pdb
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Properties.Resources.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.Cache
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.exe
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.pdb
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form2.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.oemislemleri.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.adbfastboot.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.diag.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.logislemleri.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.TrustInfo.xml
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.exe.manifest
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe.manifest
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.application
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.application
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe.config
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe.manifest
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.application
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.pdb
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojAssemblyReference.cache
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.adbfastboot.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.diag.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form2.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.form5.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.logislemleri.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.oemislemleri.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Properties.Resources.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.şifresistem.resources
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.cache
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.CoreCompileInputs.cache
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.TrustInfo.xml
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.exe.manifest
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.application
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.exe
+D:\SSD YEDEK\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.pdb
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.dosyacek.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.fastbootdosyayukle.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.recoveryislemleri.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojResolveAssemblyReference.cache
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.adbsideload.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.demo.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.TechnoDevsMenu.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\V2.0\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Driver.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe.config
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.exe
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.pdb
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe.manifest
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.application
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.exe
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\TechnoDevs Tool.pdb
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojResolveAssemblyReference.cache
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.adbfastboot.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.adbsideload.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.demo.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.diag.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.dosyacek.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Driver.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.fastbootdosyayukle.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form2.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.logislemleri.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.oemislemleri.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Properties.Resources.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.recoveryislemleri.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.TechnoDevsMenu.resources
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.Cache
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.TrustInfo.xml
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.exe.manifest
+C:\Users\baris\Desktop\Projelerim\TechnoDevs Tool\Güncel Olan\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.application
