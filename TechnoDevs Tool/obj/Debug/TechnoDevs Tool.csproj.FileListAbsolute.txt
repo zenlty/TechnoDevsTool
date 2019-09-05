@@ -1,0 +1,47 @@
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.demo.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form3.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojResolveAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSMTurkey_Tool.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.pdb
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.exe
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.pdb
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe.config
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.pdb
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojAssemblyReference.cache
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.demo.resources
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form3.resources
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSMTurkey_Tool.Properties.Resources.resources
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.cache
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.CoreCompileInputs.cache
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.exe
+D:\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.pdb
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.demo.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form3.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSMTurkey_Tool.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.exe
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.pdb
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe
+C:\Users\Barış MIZRAKLI\Desktop\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.exe
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\bin\Debug\GSM Turkey Tool.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.demo.resources
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs_Tool.Form3.resources
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSMTurkey_Tool.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\TechnoDevs Tool.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.exe
+C:\Users\Barış MIZRAKLI\Desktop\Source\son\TechnoDevs Tool V2.2.3\TechnoDevs Tool\TechnoDevs Tool\obj\Debug\GSM Turkey Tool.pdb
