@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8A2E70BB-51B0-40DF-B26C-9148C5BBABD8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TechnoDevs_Tool</RootNamespace>
+    <AssemblyName>TechnoDevs Tool</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>TechnoDevs Tool V2 Beta</ProductName>
+    <PublisherName>Barış MIZRAKLI</PublisherName>
+    <SuiteName>TechnoDevs</SuiteName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>uygulama-ikonu.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>CE301702EEFE64A0E38695D98CD560C5FBE80A93</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TechnoDevs Tool_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adbfastboot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adbfastboot.Designer.cs">
+      <DependentUpon>adbfastboot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adbsideload.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adbsideload.Designer.cs">
+      <DependentUpon>adbsideload.cs</DependentUpon>
+    </Compile>
+    <Compile Include="demo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="demo.Designer.cs">
+      <DependentUpon>demo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="diag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="diag.Designer.cs">
+      <DependentUpon>diag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dosyacek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dosyacek.Designer.cs">
+      <DependentUpon>dosyacek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fastbootdosyayukle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fastbootdosyayukle.Designer.cs">
+      <DependentUpon>fastbootdosyayukle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logislemleri.Designer.cs">
+      <DependentUpon>logislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="oemislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="oemislemleri.Designer.cs">
+      <DependentUpon>oemislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="recoveryislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recoveryislemleri.Designer.cs">
+      <DependentUpon>recoveryislemleri.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adbfastboot.resx">
+      <DependentUpon>adbfastboot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adbsideload.resx">
+      <DependentUpon>adbsideload.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="demo.resx">
+      <DependentUpon>demo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="diag.resx">
+      <DependentUpon>diag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dosyacek.resx">
+      <DependentUpon>dosyacek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fastbootdosyayukle.resx">
+      <DependentUpon>fastbootdosyayukle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logislemleri.resx">
+      <DependentUpon>logislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="oemislemleri.resx">
+      <DependentUpon>oemislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="recoveryislemleri.resx">
+      <DependentUpon>recoveryislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="TechnoDevs Tool_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cihazlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\konsol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\konsolu temizle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\POWEROFEVİL.D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oem işlemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oem kilidini aç.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-wallpapers-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\black-background_00313351.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dusty Polygon Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-2011768_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oem kilidini kapat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cihaz kontrol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oem kapat alternatif.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adb console.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fastboot consol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="uygulama-ikonu.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

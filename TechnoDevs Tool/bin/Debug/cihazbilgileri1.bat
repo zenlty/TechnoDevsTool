@@ -1,0 +1,1 @@
+start cihazbilgileri2.exe

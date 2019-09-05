@@ -1,0 +1,24 @@
+Category: Device
+Subcategory: Unclassified
+
+Operating System: 
+Windows 7 x64, Windows Vista x64
+
+1. Product name:
+QDM_3GRT_QDMC
+
+2. Marketing name:
+N/A
+
+3. Driver Version:
+1.0.0010.00000
+
+4. FW Version:
+QDMTCC_100428_001WWE_4735
+
+5. Driver Package Folder
+[Seven 32]
+QDMC-ADB-Seven64-Vista64-20100503\android_usb.inf
+
+[Vista 32]
+QDMC-ADB-Seven64-Vista64-20100503\android_usb.inf
